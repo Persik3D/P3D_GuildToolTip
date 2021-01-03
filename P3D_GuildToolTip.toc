@@ -1,7 +1,0 @@
-## Interface: 30300
-## Version: 28.05.19
-## Title: [P3D] GuildToolTip
-## Author: Persik3D
-## Notes: Гильдейский ToolTip от Byster.
-
-core.lua
